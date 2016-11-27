@@ -1,5 +1,5 @@
 # NAIC
-NAIC or Not Another Instagram Clone is a project from Inchoos PHP Academy 2016. In this web application the admin has the ability to post his photos on the server and he can chose if the photos will be public or private. The admin can see both public and private photos but if an person comes on this web application he can only see the public photos. 
+NAIC or Not Another Instagram Clone is a project from [Inchoo PHP Academy 2016](https://github.com/Inchoo/php-academy). In this web application the admin has the ability to post his photos on the server and he can chose if the photos will be public or private. The admin can see both public and private photos but if an person comes on this web application he can only see the public photos. 
 
 ##TO DO LIST
 This is still a work in progres. There are stil few things that should be done:
