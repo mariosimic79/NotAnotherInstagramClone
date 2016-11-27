@@ -11,7 +11,7 @@ This is still a work in progres. There are stil few things that should be done:
 * user interface
 
 ##How to use
-Public gallery is the index page. For the admin part you have to use _/login_ url which will lead to login page. **Username** and **password** are both admin. After login you will be transfered to the admin library where you can see public and private photos and you can upload new ones by clicking on _Upload_ button. Logout and search currently **don't** work.  
+Public gallery is the index page. For the admin part you have to use _/login_ url which will lead to login page. **Username** and **password** are both **admin**. After login you will be transfered to the admin library where you can see public and private photos and you can upload new ones by clicking on _Upload_ button. Logout and search currently **don't** work.  
 
 
 
