@@ -1,5 +1,5 @@
 # NAIC
-NAIC or Not Another Instagram Clone is a project from [Inchoo PHP Academy 2016](https://github.com/Inchoo/php-academy). In this web application the admin has the ability to post his photos on the server and he can chose if the photos will be public or private. The admin can see both public and private photos but if an person comes on this web application he can only see the public photos. 
+Not Another Instagram Clone or **NAIC** for short is an individual MVC project from [Inchoo PHP Academy 2016](https://github.com/Inchoo/php-academy). In this web application the admin has the ability to post his photos on the server and he can chose if the photos will be public or private. The admin can see both public and private photos but if an person comes on this web application he can only see the public photos. 
 
 ##TO DO LIST
 This is still a work in progres. There are stil few things that should be done:
@@ -15,7 +15,7 @@ Public gallery is the index page. For the admin part you have to use _/login_ ur
 
 
 
-# Laravel PHP Framework
+# Powered by Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
