@@ -2,13 +2,13 @@
 NAIC or Not Another Instagram Clone is a project from Inchoos PHP Academy 2016. 
 
 ###TO DO LIST
-This is still a work in progres. There are stil few things that should be done-
-*make paging for the gallery
-*make admin session
-*function to delete photos
-*function to view photos in bigger size
-*function for searching photos by their name
-*user interface
+This is still a work in progres. There are stil few things that should be done:
+* make paging for the gallery
+* make admin session
+* function to delete photos
+* function to view photos in bigger size
+* function for searching photos by their name
+* user interface
 
 
 
