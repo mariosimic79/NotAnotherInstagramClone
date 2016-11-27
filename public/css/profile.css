@@ -1,0 +1,25 @@
+.holder
+{
+    position: relative;
+    
+}
+
+
+.head
+{   
+    position: absolute;
+    width: 100%;
+    background-color: #84FBFF;
+    right: 0;
+    top: 0;
+    height: 50px;   
+}
+.info
+{   
+    position: absolute;
+    width: 100%;
+    background-color: #84FBFF;
+    right: 0;
+    top: 0;
+    height: 50px;   
+}
